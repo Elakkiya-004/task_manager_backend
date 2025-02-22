@@ -1,0 +1,24 @@
+{
+  "name": "task_manager_backend",
+  "version": "1.0.0",
+  "description": "To create nodejs express app\r 1. Create a folder <FolderName>\r 2. Using command 'npm init -y' create  package.json file.\r 3. Install express using command 'npm install express'.\r 4. Create a sample code to start the server \r             const express = require(\"express\");",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elakkiya-004/task_manager_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Elakkiya-004/task_manager_backend/issues"
+  },
+  "homepage": "https://github.com/Elakkiya-004/task_manager_backend#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
